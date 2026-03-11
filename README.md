@@ -55,3 +55,15 @@ Funciones:
 ### Objetivos 🎯
 
 Practicar conceptos básicos de programación y foñrtalecer habilidades en desarrollo con python.
+
+
+## Cómo ejecutar los programas
+
+1. Clonar el repositorio
+2. Ejecutar el archivo principal
+
+Ejemplo:
+
+Python Sistema_caja/main.py
+
+En los readme encontraras el archivo principal si no identificas cual es.
